@@ -1,0 +1,9 @@
+Package: Ejercicioextra
+Title: Ejercicio_Extra
+Version: 0.1
+Authors@R: person("Teresa", "Estébanez", email = "teresa.estebanez@live.u-tad.com", role = c("aut", "cre"))
+Description: Funciones para ejercicio extra.
+Depends: R (>= 3.4.3)
+License: MIT
+Encoding: UTF-8
+LazyData: true
